@@ -60,7 +60,7 @@ const USAstates = [
         "abbreviation": "FM"
     },
     {
-        "name": "Florida",
+        "name": "Floridaqo",
         "abbreviation": "FL"
     },
     {
